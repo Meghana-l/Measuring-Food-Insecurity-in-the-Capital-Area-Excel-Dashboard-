@@ -1,6 +1,6 @@
 # Measuring Food Insecurity in the Capital Area 
 
-<img width="1610" height="688" alt="Screenshot 2025-10-22 132625" src="https://github.com/user-attachments/assets/0ef1426e-bf2c-4d91-9e3d-926e32ca9773" />
+<img width="1613" height="692" alt="Screenshot 2025-10-22 151101" src="https://github.com/user-attachments/assets/62fafcaa-30f8-46c0-9759-81e9d8c43f6d" />
 An Excel-based interactive dashboard to analyze **food need, distribution, coverage, and unmet pounds** for **DC, Maryland, and Virginia** (2014–2015). Includes state rollups, a Top-15 tracts view, KPI cards, a slicer, and a filled map.
 
 ---
