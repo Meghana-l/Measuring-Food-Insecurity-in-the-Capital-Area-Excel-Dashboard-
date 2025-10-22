@@ -74,13 +74,6 @@ An Excel-based interactive dashboard to analyze **food need, distribution, cover
 
 ---
 
-## Notes & Limitations
-- Coverage % doesn’t capture dietary adequacy or access barriers.
-- Averages can hide within-state inequality—use the **Top-15** tracts for targeting.
-- DC label on the map can be finicky; use “Only regions with data” and “Show all” labels or a small callout linked to the DC cell.
-
----
-
 ## Credits
 - **Data provided by:** Downtown Evening Soup Kitchen (DESK), New Haven, CT  
 - **Tools:** Microsoft Excel (Tables, PivotTables, Slicers, Charts, Filled Map)
