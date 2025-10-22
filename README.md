@@ -1,4 +1,4 @@
-# Closing the Gap: Measuring Food Insecurity in the Capital Area 
+# Measuring Food Insecurity in the Capital Area 
 
 <img width="1610" height="688" alt="Screenshot 2025-10-22 132625" src="https://github.com/user-attachments/assets/0ef1426e-bf2c-4d91-9e3d-926e32ca9773" />
 An Excel-based interactive dashboard to analyze **food need, distribution, coverage, and unmet pounds** for **DC, Maryland, and Virginia** (2014–2015). Includes state rollups, a Top-15 tracts view, KPI cards, a slicer, and a filled map.
